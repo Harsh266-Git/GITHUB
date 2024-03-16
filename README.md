@@ -6,3 +6,4 @@ while using the "GROUP BY" keyword, we can't use the "WHeRE" class.
 
 so while using "GROUP BY" keyword, we should use "HAVING" class
 
+THANKYOU..    :)
